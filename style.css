@@ -1,0 +1,36 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: white;
+    color: darkblue;
+    text-align: center;
+    font-size: 16px;
+}
+
+h1 {
+    color: orangered;
+    text-decoration: underline;
+    background-color: darkblue;
+    font-size: 3em;
+}
+
+p, ul, ol, table{
+    text-align: left;
+    max-width: 700px;
+    margin: 0 auto 1em auto;
+    line-height: 1.5;
+}
+
+ul, ol {
+    padding-left: 300px;
+}
+
+table {
+    color: orangered;
+    background-color: darkblue;
+    width: 60%;
+    box-shadow: 5px -5px 10px black;
+}
+
+img{
+    width: 250px
+}
