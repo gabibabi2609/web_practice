@@ -4,6 +4,17 @@ body {
     color: darkblue;
     text-align: center;
     font-size: 16px;
+    background-image: url("");
+    
+    cursor: url('mouse.png') 10 10, auto;
+}
+
+a{
+    color: darkblue
+}
+
+a:hover{
+    color: orangered
 }
 
 h1 {
@@ -33,4 +44,8 @@ table {
 
 img{
     width: 250px
+}
+
+img:hover{
+    width: 400px
 }
